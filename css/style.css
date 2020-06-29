@@ -1,0 +1,147 @@
+body{
+  margin: 0;
+  padding: 0;
+
+  font-family:font-family: 'Roboto', sans-serif;
+
+}
+#full-width{
+  width: 100%
+
+  background-color: white;
+  background-size: cover;
+  margin : 10px auto;
+  overflow: hidden;
+
+}
+#description-image{
+  padding-left: 45px;
+  padding-top: 20px;
+}
+#description-text{
+  padding-top: 40px;
+  padding-left: 40px;
+}
+#name{
+  color:#122b40;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: capitalize;
+
+}
+#introduction{
+
+  font-weight: 450;
+  text-align: left;
+
+}
+
+
+#profile-picture{
+  width: 150px;
+  height: 150px;
+  border-radius: 80%;
+
+}
+#contact{
+  padding-left: 40px;
+  margin-top: 20px;
+  background-color: #122b40;
+  background-size: 1200;
+  color: white;
+  padding-top: 15px;
+}
+.identify{
+
+  font-size: 16px;
+}
+#contact-right-part{
+  padding-left: 20px;
+}
+#address{
+  padding-left: 25px;
+
+}
+#skills{
+  margin-top: 10px;
+}
+#tech-skill{
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+
+
+#headline{
+  padding-left: 45px;
+  padding-top: 10px;
+
+}
+h3{
+  color:  #122b40;
+  font-weight: 700;
+  font-size: 36;
+  text-transform:uppercase;
+}
+
+#soft-skills{
+  padding-top: 10px;
+  padding-left: 42px;
+}
+#tech-skill{
+  padding-left: 38px;
+  padding-top: 10px;
+
+}
+#skill-right-part{
+  padding-left: 20px;
+}
+.content{
+  font-weight: bold;
+  padding-left: 33px;
+}
+.work-description{
+  margin-left: 40px;
+}
+.common{
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+#link{
+  color: white;
+  text-decoration: none;
+}
+.below{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.university{
+  font-weight: 400;
+}
+.date{
+  font-family: 'Lora', serif;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+.work-description{
+  font-size: 16px;
+  font-weight: 400;
+
+}
+.designation{
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.work{
+  font-size: 18px;
+  text-transform: capitalize;
+}
+#navbar{
+  background-color: #00005c;
+}
+.nav-text-white {
+  color: white !important;
+  text-transform: uppercase;
+  font-weight: 600;
+}
